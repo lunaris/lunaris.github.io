@@ -1,0 +1,15 @@
+permalink:        pretty
+relative_permalinks: true
+
+title:            Will Jones
+tagline:
+url:              http://sacharissa.co.uk
+paginate:         1
+baseurl:          /
+author:
+  name:           Will Jones
+  url:            https://twitter.com/lunarisbluemoon
+  email:          will@sacharissa.co.uk
+
+pages_list:
+  CV: '/cv'
