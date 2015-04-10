@@ -30,7 +30,7 @@ object Account {
 The private case class buys us appropriate `equals` and `hashCode`
 implementations, but the trait hides the unwanted `copy` and `apply` methods
 from the consumer. The trait's companion object provides the `create` factory
-method, meaning that the trait can in effect be treated as a concreate type.
+method, meaning that the trait can in effect be treated as a concrete type.
 
 Note: the `toString` method will be slightly off (mentioning the
 private `Account_` type as opposed to the public `Account` trait), but this is
