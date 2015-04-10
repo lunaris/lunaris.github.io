@@ -26,7 +26,7 @@ Adept with a variety of front-end languages and tools
 Highly adaptable and comfortable with a wide selection of disciplines
 
 * Proficient in C\# (NuGet, NHibernate), Java (Maven, Spring,
-  Hibernate), C and Haskell.  Comfortable in C++, Agda and Idris; F\#, Ruby,
+  Hibernate), Scala, C and Haskell.  Comfortable in C++, Agda and Idris; F\#, Ruby,
   Perl and Python literate
 
 * Happiest in a Linux environment but also familiar with Windows and OSX
