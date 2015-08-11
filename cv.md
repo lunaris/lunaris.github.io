@@ -33,6 +33,20 @@ Highly adaptable and comfortable with a wide selection of disciplines
 
 ### Experience
 
+**Software engineer, Lloyds Banking Group, London**
+<small>*January 2015--May 2015*</small>
+
+* Developed a NodeJS server for managing image uploads and OCR supporting a
+  variety of back-ends including SQLite, Microsoft SQL Server and an XML/SOAP
+  web service
+
+* Constructed and maintained a comprehensive test suite using CucumberJS and
+  implemented a continuous delivery pipeline (using Jenkins) deploying to IBM's
+  Bluemix platform
+
+* Administered and configured a wide variety of services across a multitude of
+  platforms and architectures including Java/Spring/Linux and C#/.Net/Windows
+
 **Software engineer, Thomson Reuters Corporation, London**
 <small>*July 2014--January 2015*</small>
 
