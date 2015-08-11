@@ -78,11 +78,16 @@ Highly adaptable and comfortable with a wide selection of disciplines
   Everline (previously Wonga for Business) and instalment loans for
   UK consumers
 
-**Software engineer, Uprise Sales and Marketing, Ltd., Cardiff**
-<small>*August 2012--February 2013*</small>
+**Software engineer, Advanced Micro Devices (AMD), Inc., Sunnyvale,
+California**
+<small>*July 2011--October 2011*</small>
 
-* Themed and developed Drupal 7/JavaScript-powered sites for a small
-  marketing agency
+* Spent time formalising the relaxed memory model of AMD's heterogenous system
+  architecture (HSA)
+
+* Developed a suite of tools in Haskell (lexer, parser and evaluator) for
+  evaluating code written in HSA intermediate language (HSAIL) and visualising
+  possible executions and outcomes due to memory reorderings
 
 **PhD, Department of Computing, Imperial College London**
 <small>*September 2009--June 2012*</small>
