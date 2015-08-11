@@ -47,6 +47,12 @@ Highly adaptable and comfortable with a wide selection of disciplines
 * Administered and configured a wide variety of services across a multitude of
   platforms and architectures including Java/Spring/Linux and C#/.Net/Windows
 
+**External lecturer, Department of Computing, Imperial College London**
+<small>*October 2014--December 2014*</small>
+
+* Taught a course to first-year students in Advanced Functional
+  Programming using Haskell
+
 **Software engineer, Thomson Reuters Corporation, London**
 <small>*July 2014--January 2015*</small>
 
@@ -57,7 +63,7 @@ Highly adaptable and comfortable with a wide selection of disciplines
   Tomcat-deployed Java/Spring applications
 
 **External lecturer, Department of Computing, Imperial College London**
-<small>*October 2014--December 2014*</small>
+<small>*October 2013--December 2013*</small>
 
 * Taught a course to first-year students in Advanced Functional
   Programming using Haskell
