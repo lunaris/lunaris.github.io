@@ -9,7 +9,7 @@ title: CV
 
 Adept with a variety of front-end languages and tools
 
-* Languages -- JavaScript, TypeScript, CoffeeScript,
+* Languages -- PureScript, JavaScript, TypeScript, CoffeeScript,
   HTML5, CSS3, Less, SCSS and PHP
 
 * Frameworks and platforms -- AngularJS, Underscore.js, Node.js,
@@ -26,12 +26,32 @@ Adept with a variety of front-end languages and tools
 Highly adaptable and comfortable with a wide selection of disciplines
 
 * Proficient in C\# (NuGet, NHibernate), Java (Maven, Spring,
-  Hibernate), Scala, C and Haskell.  Comfortable in C++, Agda and Idris; F\#, Ruby,
-  Perl and Python literate
+  Hibernate), Scala, C and Haskell.  Comfortable in C++, Agda and Idris; F\#,
+  Ruby, Perl and Python literate
 
-* Happiest in a Linux environment but also familiar with Windows and OSX
+* Happiest in a Linux environment but just as capable with Windows and OSX
 
 ### Experience
+
+**VP Engineering, habito, London**
+<small>*May 2015--Present*</small>
+
+habito is using technology to bring the mortgage-application process into the
+21st century. Using habito, home buyers can for the first time be sure they're
+getting the best deal for them. We have developed a simple, honest and
+transparent way to help people find and apply for the best mortgage. No jargon,
+no fees and no misinformation.
+
+**External lecturer, Department of Computing, Imperial College London**
+<small>*October 2015--December 2015*</small>
+
+* Taught the first-year Introduction to Programming in Java course
+
+* Taught a course to first-year students in Advanced Functional
+  Programming using Haskell
+
+* Nominated by students for two academic choice awards for the quality of
+  teaching in both courses
 
 **Software engineer, Lloyds Banking Group, London**
 <small>*January 2015--May 2015*</small>
@@ -52,6 +72,9 @@ Highly adaptable and comfortable with a wide selection of disciplines
 
 * Taught a course to first-year students in Advanced Functional
   Programming using Haskell
+
+* Nominated by students for an academic choice award for the quality of
+  teaching in the course
 
 **Software engineer, Thomson Reuters Corporation, London**
 <small>*July 2014--January 2015*</small>
